@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Noemax.Compression</id>
+    <version>15.192.0</version>
+    <title>DotNetCompression</title>
+    <authors>Noemax Technologies</authors>
+    <owners>Noemax Technologies</owners>
+    <licenseUrl>http://www.noemax.com/_private/fixed/04/content/software_license_agreement_for_noemax_dotnetcompression_trial.html</licenseUrl>
+    <projectUrl>http://www.dotnetcompression.com/</projectUrl>
+    <iconUrl>http://www.noemax.com/_private/nuget/noemax.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DotNetCompression v3 is a streaming compression library that enables you to easily compress and decompress streams, 
+	byte arrays or single files using the LZF4, DEFLATE, ZLIB, GZIP, BZIP2 and LZMA methods. From fast compression to 
+	high compression, it unites a wide range of lossless data compression methods under a single library while at the
+	same time offering the highest throughput rates. Optimized for maximum performance, DotNetCompression v3 proves 
+	that managed C# can now compress and decompress at breathtaking speeds. Includes fully managed assemblies for 
+	.NET, CF, Azure, Silverlight, Windows Phone 7, Xbox 360, Mono, MonoTouch and Mono for Android.</description>
+    <summary>DotNetCompression provides 100% managed LZF4, DEFLATE, ZLIB, GZIP, BZIP2 and LZMA compression streams.</summary>
+    <copyright>Copyright © 2015 Noemax Technologies. All rights reserved</copyright>
+    <language>en-029</language>
+    <tags>7Zip Stream LZF4 DEFLATE ZLIB GZIP BZIP2 LZMA</tags>
+  </metadata>
+</package>

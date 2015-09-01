@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nunrar</id>
+    <version>1.0.1</version>
+    <title>NUnrar - Unrar in pure C#</title>
+    <authors>Adam Hathcock</authors>
+    <owners>Adam Hathcock</owners>
+    <licenseUrl>http://nunrar.codeplex.com/license</licenseUrl>
+    <projectUrl>http://nunrar.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NUnrar for extracting rar files in .NET with forward-only reading and file random access APIs.</description>
+    <summary>NUnrar for extracting rar files in .NET with forward-only reading and file random access APIs.</summary>
+    <tags>rar unrar .net40 .net35 sl4</tags>
+  </metadata>
+</package>

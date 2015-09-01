@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CSharp.Basics.SevenZip</id>
+    <version>6.3.0.3</version>
+    <title>CSharp.Basics.SevenZip</title>
+    <authors>rzmoz</authors>
+    <owners>rzmoz</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CSharp.Basics.SevenZip</description>
+    <copyright>Copyright 2014</copyright>
+    <dependencies>
+      <dependency id="CSharp.Basics" version="6.3.0.3" />
+    </dependencies>
+  </metadata>
+</package>
