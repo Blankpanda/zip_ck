@@ -27,3 +27,19 @@ C:\Users\CalebsComp\Documents\Visual Studio 2013\Projects\CS\zipck\zipck\obj\Deb
 C:\Users\CalebsComp\Documents\Visual Studio 2013\Projects\CS\zipck\zipck\obj\Debug\zipck.pdb
 C:\Users\CalebsComp\Documents\Visual Studio 2013\Projects\CS\zipck\zipck\bin\Debug\Autofac.dll
 C:\Users\CalebsComp\Documents\Visual Studio 2013\Projects\CS\zipck\zipck\bin\Debug\Autofac.xml
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\bin\Debug\zipck.exe.config
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck.exe
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck.pdb
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\bin\Debug\zipck.exe
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\bin\Debug\zipck.pdb
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\bin\Debug\Autofac.dll
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\bin\Debug\NUnrar.dll
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\bin\Debug\Autofac.xml
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck.csprojResolveAssemblyReference.cache
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\MainWindow.baml
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\MainWindow.g.cs
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\App.g.cs
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck_MarkupCompile.cache
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck.g.resources
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck.Properties.Resources.resources
+C:\Users\CalebsComp\Documents\zip_ck\zipck\zipck\obj\Debug\zipck.csproj.GenerateResource.Cache
